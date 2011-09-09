@@ -17,7 +17,7 @@ Installation
 
    or using pip::     
     
-        pip install -e git+https://github.com/k1000/django-tornadio#egg=stratus
+        pip install -e git+https://github.com/k1000/django-tornadio#egg=django_tornadio
 
 2. Add "django-tornadio" to your INSTALLED_APPS in "settings.py" 
 
