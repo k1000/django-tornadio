@@ -28,7 +28,7 @@ Just execute command::
 
         ./manage.py runtornadio
 
-    or
+    or::
 
         ./manage.py runtornadio --reload 8777 7666
 
