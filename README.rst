@@ -4,16 +4,6 @@ About
 *django-tornadio* - django tornadio integration.
 Known to work in Django 1.3
 
-Features
---------
-
-* manage multimple Projects - GIT repositories
-* create/uplod/modify/delete files together with GIT commits
-* view commit history and its diffs for any file 
-* browse and view files as tehy was in any point of the repo history
-* editor syntax highliting (thanx to CodeMirror 2)
-* editor zen-coding for .html nad .css files ( thanx to zen-texarea.js )
-
 
 Installation
 ------------
@@ -21,15 +11,15 @@ Installation
 
 1. Download and install::
 
-        git clone https://github.com/k1000/django-stratus
+        git clone https://github.com/k1000/django-tornadio
         cd django-stratus
         python setup.py install
 
    or using pip::     
     
-        pip install -e git+https://github.com/k1000/django-stratus#egg=stratus
+        pip install -e git+https://github.com/k1000/django-tornadio#egg=stratus
 
-2. Add "stratus" to your INSTALLED_APPS in "settings.py" 
+2. Add "django-tornadio" to your INSTALLED_APPS in "settings.py" 
 
 USSAGE
 ------
