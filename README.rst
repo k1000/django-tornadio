@@ -26,13 +26,18 @@ USSAGE
 
 Just execute command::
 
-        ./manage.py runtornadio --reload 8777
+        ./manage.py runtornadio
 
+    or::
+
+        ./manage.py runtornadio --reload 8777 7666
+
+where last nubmers indicate Tornadio Socket port and Flash policy server port respectively
 
 CONFIG
 ------
 
-Ajust ROUTES in settings.py
+Ajust ROUTES in settings.py accordingly
 
 DEPENDENCIES
 ------------
