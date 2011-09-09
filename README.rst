@@ -41,9 +41,9 @@ Ajust ROUTES in settings.py accordingly
 
 DEPENDENCIES
 ------------
-    * tornado
-    * tornadio
-    * django
+    * tornado_
+    * tornadio_
+    * django_
     
     
 LICENSE
@@ -53,4 +53,6 @@ django-stratus is released under the MIT License. See the LICENSE_ file for more
 details.
 
 .. _LICENSE: https://github.com/k1000/django-stratus/blob/master/LICENSE
-
+.. _tornado: https://github.com/facebook/tornado
+.. _tornadio: https://github.com/MrJoes/tornadio
+.. _django: https://www.djangoproject.com/
