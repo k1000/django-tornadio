@@ -37,7 +37,7 @@ where last nubmers indicate Tornadio Socket port and Flash policy server port re
 OPTIONS
 -------
 
-     * *--reload* Tells Tornado to use auto-reloader.
+     * *--reload* auto-reloads server on any code change.
      * *--flash_policy_file* Path to Flash policy file "flashpolicy.xml" (in "static" folder)
      * *--noxheaders* Tells Tornado to NOT override remote IP with X-Real-IP.
 
