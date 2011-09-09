@@ -32,7 +32,7 @@ Just execute command::
 
         ./manage.py runtornadio --reload 8777 7666
 
-    where last nubmers idnicate port and flash port respectively
+where last nubmers idnicate port and flash port respectively
 
 CONFIG
 ------
